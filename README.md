@@ -1,3 +1,3 @@
 # loginwebpage
 
-User can create a new account and login with the same account.
+User can create a new account and login using the same credentials.
